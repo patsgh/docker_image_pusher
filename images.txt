@@ -1,3 +1,1 @@
-docker.io/r/idootop/mi-gpt
-#支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+hub.docker.com/r/idootop/mi-gpt
